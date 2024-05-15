@@ -27,6 +27,8 @@ sudo docker-compose up -d --build
 ```
 - открываем главную страницу [http://89.111.174.233/](http://89.111.174.233/)
 
+- фронт проекта [https://github.com/SergeyKardashev/Hackathon_CRM_YP_Front]
+
 ## :hammer_and_wrench: Основные технологии и библиотеки :
 
 - Python 3.10
